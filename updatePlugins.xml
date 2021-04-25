@@ -21,7 +21,7 @@
             <![CDATA[
             <b>AWS开发者插件</b><br/>
             作者：<br/>
-            Haiifenng,Willard<br/>
+            Haifennj,Willard<br/>
             功能：<br/>
             <li>自动创建或者更新AWS需要的Libraries</li>
             <p style="padding-left: 12px;">在Project Settings中的Libraries中自动创建名为“aws_lib”的库，同时搜索名称为“release”的Module，自动加载bin\jdbc以及bin\lib目录下的jar包，达到自动刷新AWS运行环境库文件的目的。</p>
