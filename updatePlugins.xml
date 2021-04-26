@@ -9,7 +9,7 @@
       url - path to download the plugin JAR/ZIP file. Required. Must be HTTPS
       version - version of this plugin. Required. Must match <version> in plugin.xml
     -->
-    <plugin id="com-actionsoft-aws-idea-plugin" url="https://github.com/haifennj/AWSIdeaPlugin/blob/master/AWSIdeaPlugin.zip" version="2.2.8">
+    <plugin id="com-actionsoft-aws-idea-plugin" url="https://github.com/haifennj/AWSIdeaPlugin/raw/master/AWSIdeaPlugin.zip" version="2.2.8">
         <!--
           The <idea-version> element must match the same element in plugin.xml. Required.
         -->
