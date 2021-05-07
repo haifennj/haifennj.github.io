@@ -96,4 +96,8 @@
             ]]>
         </change-notes>
     </plugin>
+    <plugin id="com.lxl.unique.plugin.id" url="https://haifennj.github.io/files/PackageJarsOptimized-v1.3.4.jar" version="1.3.4">
+        <name>PackageJars Optimized</name>
+        <vendor email="75306469@qq.com" url="75306469@qq.com"></vendor>
+    </plugin>
 </plugins>
